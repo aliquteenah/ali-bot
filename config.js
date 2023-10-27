@@ -49,7 +49,7 @@ global.nomorown = '212605784394'
 global.str = '-------------'
 global.l = '「'
 global.r = '」'
-global.wait = '```「▰▰▰▱▱▱▱▱▱▱」 جاري تلبية طلبكم انتظر...```\ninstagam.com/noureddine_ouafy'
+global.wait = '```「▰▰▰▱▱▱▱▱▱▱」 جاري تلبية طلبكم انتظر...```'
 global.eror = '```404 ᴇʀʀᴏʀ```'
 
 global.rpg = {
