@@ -4,7 +4,7 @@ import { watchFile, unwatchFile, readFileSync } from 'fs'
 
 global.owner = 
  [
-  ['+212605784394', 'NOUR MD', true]
+  ['+966578700193', 'ali', true]
 ]
 // Put your number here
 // [number, he creator/owner?, he developer?]
